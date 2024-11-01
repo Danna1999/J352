@@ -1,0 +1,28 @@
+.headerBox {
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	font-family: "Roboto", serif;
+}
+
+.bodyCopy {
+	background-color: #f4f4f4;
+    font-family: "Roboto", serif;
+}
+.sidebar {
+	background-color: #8eadc2;
+	color: #fff;
+}
+
+.rounded {
+	border-radius: 20px;
+}
+
+
+  .button.secondary, .button.secondary.disabled, .button.secondary[disabled], .button.secondary.disabled:hover, .button.secondary[disabled]:hover, .button.secondary.disabled:focus, .button.secondary[disabled]:focus {
+    background-color: #8eadc2;
+    color: #fefefe; }
+
+  .button.secondary:hover, .button.secondary:focus {
+    background-color: black;
+    color: #fefefe; }
