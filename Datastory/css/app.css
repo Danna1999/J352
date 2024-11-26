@@ -1,0 +1,37 @@
+.headerBox {
+	background-color: #113788;
+	color: #ffffff;
+	text-align: left;
+    font-family: "EB Garamond", serif;
+    padding: 5%
+}
+.image{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: left;
+    padding: 0%
+}
+
+.Bio{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: left;
+    font-family: "EB Garamond", serif;
+    padding: 5%
+}
+.Experience{
+	background-color: #113788;
+	color: #000000;
+	text-align: left;
+    font-family: "EB Garamond", serif;
+    padding: 5%
+}
+.bodyCopy {
+	background-color: #f4f4f4;
+    font-family: "EB Garamond", serif;
+}
+
+.DannaMatheus.jfif {
+  height: 50%;
+  width: 50%;
+}
